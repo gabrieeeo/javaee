@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:E. South America Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Matheus Godoy - EMS;SENT-BY="mailto:gessica.chaves@ems.com.br":m
+ ailto:matheus.godoy@ems.com.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kosaka.cam
+ ila@gmail.com:mailto:kosaka.camila@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=emilys.san
+ tos@eq.ufcg.edu.br:mailto:emilys.santos@eq.ufcg.edu.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=emailprofi
+ ssional.fabio@gmail.com:mailto:emailprofissional.fabio@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gabrieeeli
+ ma15@gmail.com:mailto:gabrieeelima15@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=gr280802@g
+ mail.com:mailto:gr280802@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=graziela.s
+ ousa.vargas@gmail.com:mailto:graziela.sousa.vargas@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=henrique.f
+ lipsen@usp.br:mailto:henrique.flipsen@usp.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=jaquelineo
+ liveira.ipms@gmail.com:mailto:jaquelineoliveira.ipms@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=J146612@da
+ c.unicamp.br:mailto:J146612@dac.unicamp.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=luana.mota
+ @unesp.br:mailto:luana.mota@unesp.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=lucascaste
+ lli2014@gmail.com:mailto:lucascastelli2014@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Luisabelig
+ ni@hotmail.com:mailto:Luisabeligni@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=contatomar
+ celabianca@outlook.com:mailto:contatomarcelabianca@outlook.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mafreitas0
+ 65@gmail.com:mailto:mafreitas065@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mariaclara
+ jmr@hotmail.com:mailto:mariaclarajmr@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nat_rch@ho
+ tmail.com:mailto:nat_rch@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=thaistataa
+ lmeida9@gmail.com:mailto:thaistataalmeida9@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=victor.maq
+ uine@unesp.br:mailto:victor.maquine@unesp.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=paulowevel
+ int@gmail.com:mailto:paulowevelint@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Matheus Go
+ doy - EMS:mailto:matheus.godoy@ems.com.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Aline Sant
+ os - GRUPO NC:mailto:aline.santos@gruponc.net.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Simone Rei
+ s - EMS:mailto:simone.reis@ems.com.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nilson Jun
+ ior - GRUPO NC:mailto:junior.nilson@gruponc.net.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Alexandre 
+ Vomero - CSI:mailto:alexandre.vomero@gruponc.net.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;X-MICROSOFT-A
+ TTENDANCE=NONE;CN=Ronaldo Conceicao - EMS:mailto:ronaldo.conceicao@ems.com
+ .br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Felipe Lim
+ a - EMS:mailto:lima.felipe@gruponc.net.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Rafael Rin
+ aldi - GRUPO NC:mailto:rafael.rinaldi@gruponc.net.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;X-MICROSOFT-A
+ TTENDANCE=NONE;CN=Fernando Enriquez - NC FARMA:mailto:fernando.enriquez@nc
+ farma.com.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;X-MICROSOFT-A
+ TTENDANCE=NONE;CN=Ketlin Belloti - EMS:mailto:ketlin.belloti@ems.com.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nestor Jun
+ ior - GRUPO NC:mailto:nestor.donadelli@gruponc.net.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Pedro Dias
+  - EMS:mailto:pedro.dias@ems.com.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;X-MICROSOFT-A
+ TTENDANCE=NONE;CN=Talita Souza - GRUPO NC:mailto:talita.souza@gruponc.net.
+ br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;X-MICROSOFT-A
+ TTENDANCE=NONE;CN=Marina Geraldi - EMS:mailto:marina.geraldi@ems.com.br
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Gessica Ch
+ aves - EMS:mailto:gessica.chaves@ems.com.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Alan Andra
+ de:mailto:alan.andrade@ems.com.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Wellington
+  Catosso - EMS:mailto:wellington.catosso@ems.com.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;X-MICROSOFT-A
+ TTENDANCE=NONE;CN=Douglas Armelini - NCFARMA:mailto:douglas.armelini@ncfar
+ ma.com.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ruben Moda
+  - GRUPONC:mailto:ruben.moda@legrandpharma.com.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Hernani Ju
+ nior - EMS:mailto:hernani.alves@ems.com.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Cristiane 
+ Morais - NC FARMA:mailto:cristiane.moraes@ncfarma.com.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tatiana Br
+ iquesi Ferrari - GRUPO NC:mailto:tatiana.ferrari@gruponc.net.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ligia Vari
+  - GRUPO NC:mailto:ligia.vari@gruponc.net.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Larissa Ca
+ rreiro - EMS:mailto:larissa.carreiro@ems.com.br
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;X-MICROSOFT-A
+ TTENDANCE=NONE;CN=Alan Filho - EMS:mailto:alan.filho@ems.com.br
+DESCRIPTION;LANGUAGE=pt-BR:\n________________________________\nDe: Matheus 
+ Godoy - EMS <matheus.godoy@ems.com.br>\nEnviado: quinta-feira\, 8 de fever
+ eiro de 2024 15:14:56 (UTC-03:00) Brasilia\nPara: Matheus Godoy - EMS <mat
+ heus.godoy@ems.com.br>\; Aline Santos - GRUPO NC <aline.santos@gruponc.net
+ .br>\; Simone Reis - EMS <simone.reis@ems.com.br>\; Nilson Junior - GRUPO 
+ NC <junior.nilson@gruponc.net.br>\; Alexandre Vomero - CSI <alexandre.vome
+ ro@gruponc.net.br>\; Ronaldo Conceicao - EMS <ronaldo.conceicao@ems.com.br
+ >\; Felipe Lima - EMS <lima.felipe@gruponc.net.br>\; Rafael Rinaldi - GRUP
+ O NC <rafael.rinaldi@gruponc.net.br>\; Fernando Enriquez - NC FARMA <ferna
+ ndo.enriquez@ncfarma.com.br>\; Ketlin Belloti - EMS <ketlin.belloti@ems.co
+ m.br>\; Nestor Junior - GRUPO NC <nestor.donadelli@gruponc.net.br>\; Pedro
+  Dias - EMS <pedro.dias@ems.com.br>\; Talita Souza - GRUPO NC <talita.souz
+ a@gruponc.net.br>\; Marina Geraldi - EMS <marina.geraldi@ems.com.br>\; Ges
+ sica Chaves - EMS <gessica.chaves@ems.com.br>\nCc: Alan Andrade <alan.andr
+ ade@ems.com.br>\; Wellington Catosso - EMS <wellington.catosso@ems.com.br>
+ \; Douglas Armelini - NCFARMA <douglas.armelini@ncfarma.com.br>\; Ruben Mo
+ da - LEGRAND <ruben.moda@legrandpharma.com.br>\; Hernani Junior - EMS <her
+ nani.alves@ems.com.br>\; Cristiane Morais - NC FARMA <cristiane.moraes@ncf
+ arma.com.br>\; Tatiana Briquesi Ferrari - GRUPO NC <tatiana.ferrari@grupon
+ c.net.br>\; Ligia Vari - GRUPO NC <ligia.vari@gruponc.net.br>\; Larissa Ca
+ rreiro - EMS <larissa.carreiro@ems.com.br>\; Alan Filho - EMS <alan.filho@
+ ems.com.br>\nAssunto: Dinâmica de Estágio - [TURMA ADM - ONLINE] Program
+ a de estágio 2024\nQuando: quarta-feira\, 13 de março de 2024 10:00-12:0
+ 0.\nOnde: ONLINE\n\nOlá pessoal\,\n\nTudo bem?\n\nSegue nossa agenda para
+  a etapa de dinâmica com os candidatos ao estágio.\n\n\nDIAS E DIVISÕES
+ :        TURMAS E HORÁRIOS:\nQuarta 13/03    2 Dinâmicas online ADM + T
+ ÉCNICO        1ª turma: 10h as 12h | ADM          [ONLINE]\n\n\nLíder\,
+  importante sua presença para garanti a seleção do seu futuro estagiár
+ io\, caso não consiga participar\, por favor procure seu PDN.\n\nQualquer
+  dúvida\, estamos à disposição.\n\nAbs\n\n\n__________________________
+ ______________________________________________________\nReunião do Micros
+ oft Teams\nIngressar no seu computador\, aplicativo móvel ou dispositivo 
+ de sala\nClique para ingressar na reunião<https://teams.microsoft.com/l/m
+ eetup-join/19%3ameeting_NjU5YzE4YWUtMDM4MS00MmZmLWIzYmItY2QxMTBiNmE3Zjdh%4
+ 0thread.v2/0?context=%7b%22Tid%22%3a%22e6e393d7-971b-4b04-bce1-ba3967f60dd
+ 4%22%2c%22Oid%22%3a%222c096f5f-c0c8-42e3-b468-60997194cb41%22%7d>\nID da R
+ eunião: 251 705 184 664\nSenha: WM44qH\nBaixar o Teams<https://www.micros
+ oft.com/en-us/microsoft-teams/download-app> | Participe na web<https://www
+ .microsoft.com/microsoft-teams/join-a-meeting>\nSaiba mais<https://aka.ms/
+ JoinTeamsMeeting> | Opções de reunião<https://teams.microsoft.com/meeti
+ ngOptions/?organizerId=2c096f5f-c0c8-42e3-b468-60997194cb41&tenantId=e6e39
+ 3d7-971b-4b04-bce1-ba3967f60dd4&threadId=19_meeting_NjU5YzE4YWUtMDM4MS00Mm
+ ZmLWIzYmItY2QxMTBiNmE3Zjdh@thread.v2&messageId=0&language=pt-BR>\n________
+ ________________________________________________________________________\n
+ O Grupo NC preza pela integridade\, transparência e responsabilidade nas 
+ relações com todos os seus públicos. Por isso\, a informação verdadei
+ ra e honesta e o cuidado com a conduta e princípios de seus líderes\, co
+ laboradores\, clientes e fornecedores são sempre valorizados. Qualquer si
+ tuação irregular deve ser informada via Canal de Denúncia pelo site www
+ .gruponc.net.br/canal-de-denuncia\, pelo 0800 517 1301 ou pelo e-mail denu
+ ncia.gruponc@falapraeles.com.br<mailto:denuncia.gruponc@falapraeles.com.br
+ >.\n\nANTES DE IMPRIMIR PENSE EM SUA RESPONSABILIDADE E COMPROMISSO COM O 
+ MEIO AMBIENTE.\nAs informações contidas nesta mensagem e no(s) arquivo(s
+ ) anexo(s) são endereçadas exclusivamente à(s) pessoa(s) e/ou institui
+ ção(ões) acima indicada(s)\, podendo conter dados confidenciais\, os qu
+ ais não podem\, sob qualquer forma ou pretexto\, ser utilizados\, divulga
+ dos\, alterados\, impressos ou copiados\, total ou parcialmente\, por pess
+ oas não autorizadas. Caso não seja o destinatário\, favor providenciar 
+ sua exclusão e notificar o remetente imediatamente. O uso impróprio ser
+ á tratado conforme as normas da empresa e da legislação em vigor. O des
+ tinatário deve checar se não há vírus neste e-mail e em seus anexos. A
+  empresa não se responsabiliza pelos danos causados por vírus. Obrigado!
+ \nO Grupo NC preza pela integridade\, transparência e responsabilidade na
+ s relações com todos os seus públicos. Por isso\, a informação verdad
+ eira e honesta e o cuidado com a conduta e princípios de seus líderes\, 
+ colaboradores\, clientes e fornecedores são sempre valorizados. Qualquer 
+ situação irregular deve ser informada via Canal de Denúncia pelo site w
+ ww.gruponc.net.br/canal-de-denuncia\, pelo 0800 517 1301 ou pelo e-mail de
+ nuncia.gruponc@falapraeles.com.br<mailto:denuncia.gruponc@falapraeles.com.
+ br>.\n\nANTES DE IMPRIMIR PENSE EM SUA RESPONSABILIDADE E COMPROMISSO COM 
+ O MEIO AMBIENTE.\nAs informações contidas nesta mensagem e no(s) arquivo
+ (s) anexo(s) são endereçadas exclusivamente à(s) pessoa(s) e/ou institu
+ ição(ões) acima indicada(s)\, podendo conter dados confidenciais\, os q
+ uais não podem\, sob qualquer forma ou pretexto\, ser utilizados\, divulg
+ ados\, alterados\, impressos ou copiados\, total ou parcialmente\, por pes
+ soas não autorizadas. Caso não seja o destinatário\, favor providenciar
+  sua exclusão e notificar o remetente imediatamente. O uso impróprio ser
+ á tratado conforme as normas da empresa e da legislação em vigor. O des
+ tinatário deve checar se não há vírus neste e-mail e em seus anexos. A
+  empresa não se responsabiliza pelos danos causados por vírus. Obrigado!
+ \n
+UID:040000008200E00074C5B7101A82E00800000000433D87B5BA5ADA01000000000000000
+ 0100000004AA157781F76ED489D0C23C5D2E1CE16
+SUMMARY;LANGUAGE=pt-BR:ENC: Dinâmica de Estágio - [TURMA ADM - ONLINE] Pr
+ ograma de estágio 2024
+DTSTART;TZID=E. South America Standard Time:20240313T100000
+DTEND;TZID=E. South America Standard Time:20240313T120000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20240208T181454Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=pt-BR:ONLINE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2122465859
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NjU5YzE4YWUtMDM4MS00MmZmLWIzYmItY2QxMTBiNmE3Zjdh%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22e6e393d7-971b-4b04-bce1-ba3967f60dd4%22%2c%22O
+ id%22%3a%222c096f5f-c0c8-42e3-b468-60997194cb41%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/e6e393d7-971b-4b04-bce1-ba3967f60dd4/2c096f5f-c0c8-42e3-b468-6
+ 0997194cb41/19_meeting_NjU5YzE4YWUtMDM4MS00MmZmLWIzYmItY2QxMTBiNmE3Zjdh@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NjU5YzE4YWUtMDM4MS00MmZ
+ mLWIzYmItY2QxMTBiNmE3Zjdh@thread.v2"\,"rid":0\,"mid":0\,"uid":null\,"priva
+ te":true\,"type":0}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:ONLINE
+X-MICROSOFT-LOCATIONSOURCE:None
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"ONLINE"\,"LocationAnnotation":""\,"L
+ ocationUri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""
+ \,"LocationCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}
+ ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
